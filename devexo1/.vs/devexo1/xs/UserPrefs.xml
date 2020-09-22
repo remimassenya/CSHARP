@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8383F83A-BFE8-4B4F-959A-8AF029ABF7AB}|Default">
+  <MonoDevelop.Ide.ItemProperties.ArticleTableau PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArticleTableau/Program.cs">
+    <Files>
+      <File FileName="ArticleTableau/Article.cs" Line="36" Column="1" />
+      <File FileName="ArticleTableau/Program.cs" Line="23" Column="1" />
+      <File FileName="devexo1/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="devexo1" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.devexo1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

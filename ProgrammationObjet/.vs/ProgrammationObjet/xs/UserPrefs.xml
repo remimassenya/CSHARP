@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{BB2C0DAC-EC6B-4D46-9D32-CBA56C6D0850}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Personnes/Personne.cs">
+    <Files>
+      <File FileName="Personnes/Personne.cs" Line="12" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProgrammationObjet" expanded="True">
+            <Node name="Personnes" expanded="True">
+              <Node name="Personne.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Personnes FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

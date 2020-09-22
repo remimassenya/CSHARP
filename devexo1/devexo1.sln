@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "devexo1", "devexo1\devexo1.csproj", "{B2AF7C7F-FF02-4371-95FB-CAC676B0E930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticleTableau", "ArticleTableau\ArticleTableau.csproj", "{8383F83A-BFE8-4B4F-959A-8AF029ABF7AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2AF7C7F-FF02-4371-95FB-CAC676B0E930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AF7C7F-FF02-4371-95FB-CAC676B0E930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AF7C7F-FF02-4371-95FB-CAC676B0E930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AF7C7F-FF02-4371-95FB-CAC676B0E930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8383F83A-BFE8-4B4F-959A-8AF029ABF7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8383F83A-BFE8-4B4F-959A-8AF029ABF7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8383F83A-BFE8-4B4F-959A-8AF029ABF7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8383F83A-BFE8-4B4F-959A-8AF029ABF7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
