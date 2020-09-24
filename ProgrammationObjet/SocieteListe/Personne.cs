@@ -16,22 +16,6 @@ namespace SocieteListe
             this.Age = age;
             nb++;
         }
-        /*
-        public void Afficher()
-        {
-            Console.WriteLine($"Nom: {this.Nom}");
-            Console.WriteLine($"Prénom: {this.Prenom}");
-            Console.WriteLine($"Age: {this.Age}");
-            Console.WriteLine("");
-        }
-        */
-        public void Afficher(Personne personne)
-        {
-            Console.WriteLine($"Nom: {personne.Nom}");
-            Console.WriteLine($"Prénom: {personne.Prenom}");
-            Console.WriteLine($"Age: {personne.Age}");
-            Console.WriteLine("");
-        }
 
         public void Combien()
         {

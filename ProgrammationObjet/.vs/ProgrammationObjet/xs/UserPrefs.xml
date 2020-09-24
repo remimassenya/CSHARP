@@ -1,25 +1,17 @@
-﻿<Properties StartupConfiguration="{6F12AC70-FEBC-4484-AE87-7CF7B49A27A2}|Default">
+﻿<Properties StartupConfiguration="{6C4C4F03-864D-4306-81C8-96F4FF358946}|Default">
   <MonoDevelop.Ide.ItemProperties.SocieteTableau PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.ItemProperties.SocieteListe FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SocieteTableau/Program.cs">
-    <Files>
-      <File FileName="SocieteTableau/SociétéTableau.cs" Line="5" Column="6" />
-      <File FileName="SocieteTableau/Program.cs" Line="16" Column="21" />
-    </Files>
+  <MonoDevelop.Ide.ItemProperties.SocieteListe PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ProgrammationObjet" expanded="True">
-            <Node name="Personnes" expanded="True" />
-            <Node name="SocieteTableau" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="ProgrammationObjet" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SocieteEnumeration PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Personnes PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

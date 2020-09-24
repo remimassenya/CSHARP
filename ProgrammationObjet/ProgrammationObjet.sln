@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocieteTableau", "SocieteTa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocieteListe", "SocieteListe\SocieteListe.csproj", "{1AA79838-3B2E-40FA-89B3-381CCD300B12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocieteEnumeration", "SocieteEnumeration\SocieteEnumeration.csproj", "{6C4C4F03-864D-4306-81C8-96F4FF358946}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,5 +27,9 @@ Global
 		{1AA79838-3B2E-40FA-89B3-381CCD300B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AA79838-3B2E-40FA-89B3-381CCD300B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AA79838-3B2E-40FA-89B3-381CCD300B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C4C4F03-864D-4306-81C8-96F4FF358946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4C4F03-864D-4306-81C8-96F4FF358946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4C4F03-864D-4306-81C8-96F4FF358946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4C4F03-864D-4306-81C8-96F4FF358946}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
