@@ -13,14 +13,13 @@ namespace Personnes
     {
         public static void Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();
-        }
+            var pers = new Personne("nom","prenom",44);
+            var pers2 = new Personne("nom", "prenom", 44);
+            var pers3 = new Personne("nom", "prenom", 44);
 
-        public static IHostBuilder CreateHostBuilder(string[] args) =>
-            Host.CreateDefaultBuilder(args)
-                .ConfigureWebHostDefaults(webBuilder =>
-                {
-                    webBuilder.UseStartup<Startup>();
-                });
+            pers.Afficher();
+            pers.Dispose();
+            pers.Combien();
+        }
     }
 }
